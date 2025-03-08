@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Nitya
 - 💞️ Information Engineering Student at Universitas Gadjah Mada 
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C++
 - 📫 How to reach me: hayunitya549@gmail.com 
 
 <!---
